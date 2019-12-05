@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.square1{
+	height: 300px;
+	width: 300px;
+	background-color: green;
+}
